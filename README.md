@@ -1,2 +1,2 @@
 # CompetitiveProgramming
-My solutions
+My solutions for UHunt
